@@ -1,0 +1,1 @@
+This is a Python + Docker project. The Python script will ETL data and output the result in the cli or an output file.
